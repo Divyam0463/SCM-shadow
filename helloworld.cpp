@@ -2,4 +2,4 @@
 using namespace std;
 
 int main()
-{cout<<"hello world" <<endl;}
+{cout<<"I am not trying my best." <<endl;}
